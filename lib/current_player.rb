@@ -17,6 +17,3 @@ def current_player(board)
   end
 end
 
-def even(num)
-  return num % 2
-end
