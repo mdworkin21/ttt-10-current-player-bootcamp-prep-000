@@ -17,5 +17,5 @@ def current_player(board)
 end
 
 def even(num)
-  return num % 2 
+  return num % 2
 end
